@@ -448,7 +448,7 @@ border: 2px solid goldenrod;
      }
 }
 
-@media only screen and (min-width: 1999px){
+@media only screen and (max-width: 1999px){
     .border, .border-2{
         display: none;
     }
