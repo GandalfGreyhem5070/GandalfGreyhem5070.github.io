@@ -403,17 +403,19 @@ border: 2px solid goldenrod;
     
 }
 
- @media only screen and (max-width: 600px) {
+ @media only screen and (max-width: 500px) {
     #arrow,#arrow-about, #arrow-skills, #arrow-portfolio {
       display: none;
     }
   }
-  @media only screen and (max-width: 600px) {
-      .border, .border-2 {
+  @media only screen and (max-width: 800px) {
+      
+    
+    .border, .border-2 {
           display: none;
       }
       .hero {
-          width: 2px;
+          display: none;
       }
       .nav {
           background-color: #401f2a;
