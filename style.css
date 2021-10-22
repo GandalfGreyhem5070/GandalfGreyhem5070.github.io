@@ -446,8 +446,11 @@ border: 2px solid goldenrod;
      #follow{
          margin-left: 3rem;
      }
-     
-         
-     }
+}
+
+@media only screen and (min-width: 1999px){
+    .hero: 100vw;
+    .border:100vw;
+}
 
   
