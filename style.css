@@ -218,10 +218,10 @@ a {
 }
 /* about */
 p {
-   font-size: 2rem; 
+   font-size: 3rem; 
    color:black;
    letter-spacing: .25rem;
-   line-height: 2.75rem;
+   line-height: 4rem;
 }
 .container {
     max-width: 100%;
@@ -281,7 +281,7 @@ p {
 .call-to-action p {
     font-size:3rem;
     font-weight: bold;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     margin-left: 4rem;
     color: goldenrod;
     text-align: center;
@@ -446,6 +446,7 @@ border: 2px solid goldenrod;
      #follow{
          margin-left: 3rem;
      }
+    
 }
 
 @media only screen and (max-width: 1200px){
